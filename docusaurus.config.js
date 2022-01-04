@@ -23,19 +23,6 @@ module.exports = {
       title: "Mint Developers",
 
       items: [
-        // {
-        //   // type: "doc",
-        //   to: "docs/gettingStarted/Tutorial",
-        //   activeBasePath: "docs/",
-        //   label: "Docs",
-        //   position: "left",
-        // },
-        {
-          type: "doc",
-          docId: "intro",
-          position: "left",
-          label: "Tutorial",
-        },
         {
           href: "https://mintnft.jp",
           label: "Mint",
