@@ -1,0 +1,43 @@
+---
+title: SDKにおける通貨について
+---
+
+## About ETH と MATIC
+
+Regular shops do transactional process through currency such as ETH, which is processed in units of `ether`. (Just like a dollar)
+For ETH, wei is the smallest amount of ETH that is calculatable.
+
+`1ether === 1000000000000000000wei`
+
+### ETH in SDK
+
+In the SDK, the ether unit is assigned to the `number` type.
+
+In some parts, it is assigned as a `BigNumber` as wei causes overflow in some environments when assigned as `number`.
+As a utility, the SDK provides ways to interchangably go from `BigNumber` to `ether`.
+
+- `SDK.formatEther` formats a `BigNumber` to an ether unit, which is returned as a `string`.
+- `SDK.parseEther` formats a `string` as an ether unit, which is returned as a wei in the `BigNumber` format.
+
+## Rinkeby 用の ETH の入手方法
+
+テスト環境で使える ETH の入手方法は以下の通り
+
+1. Take note of the wallet address
+1. [https://faucet.rinkeby.io/](https://faucet.rinkeby.io/) のサイトにアクセス
+1. Tweet リンクをクリック
+1. `0x0000.....`部分を 1 でメモしたアドレスに置換する
+1. Tweet
+1. Add the Tweet URL to the input . Tweet の URL をコピーしサイトの Input に貼り付ける
+1. Press on the "Give me Ether" button.
+1. In due time, the amount will be deposited
+
+## Mumbai 用の MATIC の入手方法
+
+テスト環境で使える MATIC の入手方法は以下の通り
+
+1. Take note of the wallet address
+1. [https://faucet.matic.network/](https://faucet.matic.network/) のサイトにアクセス
+1. `Mumbai`を選択
+1. ウォレットアドレスを入力し Submit ボタンを押す
+1. In due time, the amount will be deposited
