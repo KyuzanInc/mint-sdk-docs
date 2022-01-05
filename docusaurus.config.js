@@ -6,12 +6,12 @@ module.exports = {
   title: "Mint Developers",
   tagline: "Mint Developers",
   url: "https://kyuzaninc.github.io",
-  baseUrl: "/mint-sdk-js/",
+  baseUrl: "/mint-sdk-docs/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
   organizationName: "KyuzanInc", // Usually your GitHub org/user name.
-  projectName: "mint-sdk-js", // Usually your repo name.
+  projectName: "mint-sdk-docs", // Usually your repo name.
   i18n: {
     defaultLocale: "jp",
     locales: ["jp", "en"],
