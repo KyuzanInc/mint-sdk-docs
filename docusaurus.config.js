@@ -58,15 +58,21 @@ module.exports = {
     },
   },
   plugins: [
-    // TODO:
-    // [
-    //   'docusaurus-plugin-typedoc',
-    //   // Plugin / TypeDoc options
-    //   {
-    //     entryPoints: ['../src/index.ts'],
-    //     tsconfig: '../tsconfig.json',
-    //   },
-    // ],
+    [
+      "docusaurus-plugin-typedoc",
+      // Plugin / TypeDoc options
+      {
+        entryPoints: [
+          "./mint-sdk-js/src/index.ts",
+          "./mint-sdk-js/src/strategies/index.ts",
+          "./mint-sdk-js/src/apiClientV2/index.ts",
+          "./mint-sdk-js/src/constants/index.ts",
+          "./mint-sdk-js/src/types/",
+        ],
+        tsconfig: "./mint-sdk-js/tsconfig.json",
+        out: "api",
+      },
+    ],
     "@docusaurus/plugin-ideal-image",
   ],
   presets: [
