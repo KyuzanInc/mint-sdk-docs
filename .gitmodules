@@ -1,4 +1,4 @@
 [submodule "mint-sdk-js"]
-    path = /mint-sdk-js
+    path = mint-sdk-js
     url = https://github.com/KyuzanInc/mint-sdk-js
     branch = v2
