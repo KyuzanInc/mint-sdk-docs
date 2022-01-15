@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/constants/index.ts:1
+[mint-sdk-js/src/constants/index.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/constants/index.ts#L1)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/constants/index.ts:4
+[mint-sdk-js/src/constants/index.ts:4](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/constants/index.ts#L4)
 
 ___
 
@@ -46,4 +46,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/constants/index.ts:5
+[mint-sdk-js/src/constants/index.ts:5](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/constants/index.ts#L5)

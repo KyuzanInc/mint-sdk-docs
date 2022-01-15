@@ -21,7 +21,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:77
+[mint-sdk-js/src/apiClientV2/configuration.ts:77](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L77)
 
 ## Properties
 
@@ -39,7 +39,7 @@ parameter for oauth2 security
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:53
+[mint-sdk-js/src/apiClientV2/configuration.ts:53](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L53)
 
 ___
 
@@ -55,7 +55,7 @@ parameter for apiKey security
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:32
+[mint-sdk-js/src/apiClientV2/configuration.ts:32](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L32)
 
 ___
 
@@ -69,7 +69,7 @@ base options for axios calls
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:67
+[mint-sdk-js/src/apiClientV2/configuration.ts:67](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L67)
 
 ___
 
@@ -83,7 +83,7 @@ override base path
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:60
+[mint-sdk-js/src/apiClientV2/configuration.ts:60](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L60)
 
 ___
 
@@ -101,7 +101,7 @@ do not support the FormData class can still run the generated client.
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:75
+[mint-sdk-js/src/apiClientV2/configuration.ts:75](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L75)
 
 ___
 
@@ -115,7 +115,7 @@ parameter for basic security
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:46
+[mint-sdk-js/src/apiClientV2/configuration.ts:46](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L46)
 
 ___
 
@@ -129,7 +129,7 @@ parameter for basic security
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:39
+[mint-sdk-js/src/apiClientV2/configuration.ts:39](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L39)
 
 ## Methods
 
@@ -158,4 +158,4 @@ True if the given MIME is JSON, false otherwise.
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:97
+[mint-sdk-js/src/apiClientV2/configuration.ts:97](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L97)

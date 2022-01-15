@@ -33,7 +33,7 @@ BaseError.constructor
 
 #### Defined in
 
-mint-sdk-js/src/Errors.ts:2
+[mint-sdk-js/src/Errors.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/Errors.ts#L2)
 
 ## Properties
 

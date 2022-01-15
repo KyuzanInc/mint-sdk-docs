@@ -25,7 +25,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:110
+[mint-sdk-js/src/index.ts:110](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L110)
 
 ## Properties
 
@@ -55,7 +55,7 @@ await sdk.getWalletInfo()
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:196
+[mint-sdk-js/src/index.ts:196](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L196)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:102
+[mint-sdk-js/src/index.ts:102](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L102)
 
 ## Methods
 
@@ -100,7 +100,7 @@ await sdk.addEthereumChain(137)
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:955
+[mint-sdk-js/src/index.ts:955](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L955)
 
 ___
 
@@ -127,7 +127,7 @@ await sdk.isWalletConnect()  // true
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:161
+[mint-sdk-js/src/index.ts:161](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L161)
 
 ___
 
@@ -152,7 +152,7 @@ await sdk.disconnectWallet()
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:177
+[mint-sdk-js/src/index.ts:177](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L177)
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:1071
+[mint-sdk-js/src/index.ts:1071](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L1071)
 
 ___
 
@@ -210,7 +210,7 @@ const items = await sdk.getBoughtItemStocksByWalletAddress(...)
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:320
+[mint-sdk-js/src/index.ts:320](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L320)
 
 ___
 
@@ -234,7 +234,7 @@ await sdk.getConnectedNetworkId()
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:813
+[mint-sdk-js/src/index.ts:813](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L813)
 
 ___
 
@@ -264,7 +264,7 @@ const items = await sdk.getContractERC721ById(...)
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:457
+[mint-sdk-js/src/index.ts:457](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L457)
 
 ___
 
@@ -292,7 +292,7 @@ const item = await sdk.getItemById('item.id')
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:391
+[mint-sdk-js/src/index.ts:391](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L391)
 
 ___
 
@@ -325,7 +325,7 @@ const items = await sdk.getItemStockById(...)
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:298
+[mint-sdk-js/src/index.ts:298](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L298)
 
 ___
 
@@ -360,7 +360,7 @@ const item = await sdk.getItemsByBidderAddress('0x1111......')
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:352
+[mint-sdk-js/src/index.ts:352](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L352)
 
 ___
 
@@ -401,7 +401,7 @@ const items = await sdk.getItems(...)
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:245
+[mint-sdk-js/src/index.ts:245](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L245)
 
 ___
 
@@ -429,7 +429,7 @@ const item = await sdk.getProductERC721ById('id')
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:411
+[mint-sdk-js/src/index.ts:411](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L411)
 
 ___
 
@@ -460,7 +460,7 @@ const tokens = await sdk.getTokensByAddress('0x11111...')
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:431
+[mint-sdk-js/src/index.ts:431](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L431)
 
 ___
 
@@ -485,7 +485,7 @@ await sdk.isInjectedWallet() // true
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:796
+[mint-sdk-js/src/index.ts:796](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L796)
 
 ___
 
@@ -510,7 +510,7 @@ await sdk.isWalletConnect()
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:143
+[mint-sdk-js/src/index.ts:143](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L143)
 
 ___
 
@@ -542,7 +542,7 @@ sdk.onAccountsChange((accounts: string[]) => {
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:705
+[mint-sdk-js/src/index.ts:705](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L705)
 
 ___
 
@@ -574,7 +574,7 @@ sdk.onConnect(() => {
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:730
+[mint-sdk-js/src/index.ts:730](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L730)
 
 ___
 
@@ -606,7 +606,7 @@ sdk.onDisconnect(() => {
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:755
+[mint-sdk-js/src/index.ts:755](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L755)
 
 ___
 
@@ -647,7 +647,7 @@ try {
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:490
+[mint-sdk-js/src/index.ts:490](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L490)
 
 ___
 
@@ -689,7 +689,7 @@ try {
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:638
+[mint-sdk-js/src/index.ts:638](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L638)
 
 ___
 
@@ -731,7 +731,7 @@ try {
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:570
+[mint-sdk-js/src/index.ts:570](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L570)
 
 ___
 
@@ -771,7 +771,7 @@ const { data, sig } = await sdk.signTypedData(arg)
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:871
+[mint-sdk-js/src/index.ts:871](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L871)
 
 ___
 
@@ -797,7 +797,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:1019
+[mint-sdk-js/src/index.ts:1019](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L1019)
 
 ___
 
@@ -818,7 +818,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:1052
+[mint-sdk-js/src/index.ts:1052](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L1052)
 
 ___
 
@@ -843,7 +843,7 @@ Transactionが成功するとResolveするPromiseを返します
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:221
+[mint-sdk-js/src/index.ts:221](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L221)
 
 ___
 
@@ -876,7 +876,7 @@ MintSDK.formatEther(walletInfo.balance) // 3.2
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:93
+[mint-sdk-js/src/index.ts:93](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L93)
 
 ___
 
@@ -906,7 +906,7 @@ MintSDK.parseEther('3.2') // BigNumber
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:74
+[mint-sdk-js/src/index.ts:74](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L74)
 
 ___
 
@@ -944,4 +944,4 @@ if(address.toLowerCase() === recoverdAddress){
 
 #### Defined in
 
-mint-sdk-js/src/index.ts:918
+[mint-sdk-js/src/index.ts:918](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/index.ts#L918)

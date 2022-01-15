@@ -19,7 +19,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:14
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:14](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L14)
 
 ## Properties
 
@@ -29,7 +29,7 @@ mint-sdk-js/src/strategies/MetamaskStrategy.ts:14
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:8
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:8](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L8)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:6
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:6](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L6)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:7
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:7](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L7)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:5
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:5](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L5)
 
 ## Methods
 
@@ -77,7 +77,7 @@ mint-sdk-js/src/strategies/MetamaskStrategy.ts:5
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:32
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:32](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L32)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:66
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:66](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L66)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:119
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:119](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L119)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:123
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:123](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L123)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:127
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:127](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L127)
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:39
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:39](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L39)
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:57
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:57](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L57)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:43
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:43](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L43)
 
 ___
 
@@ -215,7 +215,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:61
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:61](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L61)
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:75
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:75](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L75)
 
 ___
 
@@ -263,7 +263,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:91
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:91](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L91)
 
 ___
 
@@ -287,7 +287,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:107
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:107](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L107)
 
 ___
 
@@ -311,7 +311,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:71
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:71](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L71)
 
 ___
 
@@ -335,7 +335,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:87
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:87](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L87)
 
 ___
 
@@ -359,7 +359,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:103
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:103](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L103)
 
 ___
 
@@ -373,4 +373,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/MetamaskStrategy.ts:10
+[mint-sdk-js/src/strategies/MetamaskStrategy.ts:10](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/MetamaskStrategy.ts#L10)

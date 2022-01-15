@@ -25,7 +25,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:6
+[mint-sdk-js/src/strategies/interface.ts:6](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L6)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:10
+[mint-sdk-js/src/strategies/interface.ts:10](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L10)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:7
+[mint-sdk-js/src/strategies/interface.ts:7](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L7)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:9
+[mint-sdk-js/src/strategies/interface.ts:9](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L9)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:8
+[mint-sdk-js/src/strategies/interface.ts:8](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L8)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:5
+[mint-sdk-js/src/strategies/interface.ts:5](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L5)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:12
+[mint-sdk-js/src/strategies/interface.ts:12](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L12)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:14
+[mint-sdk-js/src/strategies/interface.ts:14](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L14)
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:16
+[mint-sdk-js/src/strategies/interface.ts:16](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L16)
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:11
+[mint-sdk-js/src/strategies/interface.ts:11](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L11)
 
 ___
 
@@ -195,7 +195,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:13
+[mint-sdk-js/src/strategies/interface.ts:13](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L13)
 
 ___
 
@@ -215,4 +215,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/interface.ts:15
+[mint-sdk-js/src/strategies/interface.ts:15](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/interface.ts#L15)

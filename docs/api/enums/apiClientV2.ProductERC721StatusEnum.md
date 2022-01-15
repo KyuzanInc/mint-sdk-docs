@@ -17,7 +17,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:1033
+[mint-sdk-js/src/apiClientV2/api.ts:1033](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L1033)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:1029
+[mint-sdk-js/src/apiClientV2/api.ts:1029](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L1029)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:1032
+[mint-sdk-js/src/apiClientV2/api.ts:1032](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L1032)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:1030
+[mint-sdk-js/src/apiClientV2/api.ts:1030](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L1030)
 
 ___
 
@@ -57,4 +57,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:1031
+[mint-sdk-js/src/apiClientV2/api.ts:1031](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L1031)

@@ -24,7 +24,7 @@ Do not edit the class manually.
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:20
+[mint-sdk-js/src/apiClientV2/configuration.ts:20](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L20)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:17
+[mint-sdk-js/src/apiClientV2/configuration.ts:17](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L17)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:22
+[mint-sdk-js/src/apiClientV2/configuration.ts:22](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L22)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:21
+[mint-sdk-js/src/apiClientV2/configuration.ts:21](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L21)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:23
+[mint-sdk-js/src/apiClientV2/configuration.ts:23](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L23)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:19
+[mint-sdk-js/src/apiClientV2/configuration.ts:19](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L19)
 
 ___
 
@@ -88,4 +88,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/configuration.ts:18
+[mint-sdk-js/src/apiClientV2/configuration.ts:18](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/configuration.ts#L18)

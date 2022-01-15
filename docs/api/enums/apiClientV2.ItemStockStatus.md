@@ -17,7 +17,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:892
+[mint-sdk-js/src/apiClientV2/api.ts:892](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L892)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:893
+[mint-sdk-js/src/apiClientV2/api.ts:893](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L893)

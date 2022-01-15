@@ -28,7 +28,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:13
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:13](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L13)
 
 ## Properties
 
@@ -38,7 +38,7 @@ mint-sdk-js/src/strategies/FortmaticStrategy.ts:13
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:11
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:11](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L11)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:9
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:9](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L9)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:10
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:10](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L10)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:8
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:8](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L8)
 
 ## Methods
 
@@ -86,7 +86,7 @@ mint-sdk-js/src/strategies/FortmaticStrategy.ts:8
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:53
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:53](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L53)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:82
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:82](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L82)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:119
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:119](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L119)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:123
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:123](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L123)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:127
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:127](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L127)
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:58
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:58](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L58)
 
 ___
 
@@ -188,7 +188,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:48
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:48](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L48)
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:31
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:31](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L31)
 
 ___
 
@@ -224,7 +224,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:27
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:27](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L27)
 
 ___
 
@@ -248,7 +248,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:91
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:91](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L91)
 
 ___
 
@@ -272,7 +272,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:70
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:70](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L70)
 
 ___
 
@@ -296,7 +296,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:107
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:107](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L107)
 
 ___
 
@@ -320,7 +320,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:87
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:87](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L87)
 
 ___
 
@@ -344,7 +344,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:66
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:66](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L66)
 
 ___
 
@@ -368,4 +368,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/strategies/FortmaticStrategy.ts:103
+[mint-sdk-js/src/strategies/FortmaticStrategy.ts:103](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/strategies/FortmaticStrategy.ts#L103)

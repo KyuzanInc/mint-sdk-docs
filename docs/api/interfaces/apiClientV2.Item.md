@@ -21,7 +21,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:733
+[mint-sdk-js/src/apiClientV2/api.ts:733](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L733)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:745
+[mint-sdk-js/src/apiClientV2/api.ts:745](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L745)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:649
+[mint-sdk-js/src/apiClientV2/api.ts:649](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L649)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:703
+[mint-sdk-js/src/apiClientV2/api.ts:703](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L703)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:667
+[mint-sdk-js/src/apiClientV2/api.ts:667](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L667)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:691
+[mint-sdk-js/src/apiClientV2/api.ts:691](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L691)
 
 ___
 
@@ -97,7 +97,7 @@ Mintに支払われる取引手数料
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:709
+[mint-sdk-js/src/apiClientV2/api.ts:709](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L709)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:643
+[mint-sdk-js/src/apiClientV2/api.ts:643](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L643)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:727
+[mint-sdk-js/src/apiClientV2/api.ts:727](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L727)
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:751
+[mint-sdk-js/src/apiClientV2/api.ts:751](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L751)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:661
+[mint-sdk-js/src/apiClientV2/api.ts:661](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L661)
 
 ___
 
@@ -159,7 +159,7 @@ paymentMethodによって異なるデータ
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:721
+[mint-sdk-js/src/apiClientV2/api.ts:721](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L721)
 
 ___
 
@@ -173,7 +173,7 @@ Itemのプレビュー用URL
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:673
+[mint-sdk-js/src/apiClientV2/api.ts:673](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L673)
 
 ___
 
@@ -185,7 +185,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:697
+[mint-sdk-js/src/apiClientV2/api.ts:697](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L697)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:739
+[mint-sdk-js/src/apiClientV2/api.ts:739](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L739)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:685
+[mint-sdk-js/src/apiClientV2/api.ts:685](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L685)
 
 ___
 
@@ -223,7 +223,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:715
+[mint-sdk-js/src/apiClientV2/api.ts:715](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L715)
 
 ___
 
@@ -235,7 +235,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:679
+[mint-sdk-js/src/apiClientV2/api.ts:679](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L679)
 
 ___
 
@@ -247,4 +247,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:655
+[mint-sdk-js/src/apiClientV2/api.ts:655](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L655)

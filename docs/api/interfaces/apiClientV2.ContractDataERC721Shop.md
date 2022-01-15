@@ -25,7 +25,7 @@ JSON.stringifyしたもの
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:135
+[mint-sdk-js/src/apiClientV2/api.ts:135](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L135)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:117
+[mint-sdk-js/src/apiClientV2/api.ts:117](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L117)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:129
+[mint-sdk-js/src/apiClientV2/api.ts:129](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L129)
 
 ___
 
@@ -61,4 +61,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:123
+[mint-sdk-js/src/apiClientV2/api.ts:123](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L123)

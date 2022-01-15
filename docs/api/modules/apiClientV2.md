@@ -117,7 +117,7 @@ DefaultApi - axios parameter creator
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:1214
+[mint-sdk-js/src/apiClientV2/api.ts:1214](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L1214)
 
 ___
 
@@ -159,7 +159,7 @@ DefaultApi - factory interface
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:2089
+[mint-sdk-js/src/apiClientV2/api.ts:2089](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L2089)
 
 ___
 
@@ -199,4 +199,4 @@ DefaultApi - functional programming interface
 
 #### Defined in
 
-mint-sdk-js/src/apiClientV2/api.ts:1903
+[mint-sdk-js/src/apiClientV2/api.ts:1903](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/apiClientV2/api.ts#L1903)

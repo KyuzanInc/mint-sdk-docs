@@ -25,7 +25,7 @@ custom_edit_url: null
 
 #### Defined in
 
-mint-sdk-js/src/types/BigNumber.ts:3
+[mint-sdk-js/src/types/BigNumber.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/BigNumber.ts#L3)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/CurrencyUnit.ts:3
+[mint-sdk-js/src/types/CurrencyUnit.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/CurrencyUnit.ts#L3)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/v2/Item.ts:6
+[mint-sdk-js/src/types/v2/Item.ts:6](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/v2/Item.ts#L6)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/ItemLog.ts:1
+[mint-sdk-js/src/types/ItemLog.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/ItemLog.ts#L1)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/v2/ItemStock.ts:5
+[mint-sdk-js/src/types/v2/ItemStock.ts:5](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/v2/ItemStock.ts#L5)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/ItemTradeType.ts:2
+[mint-sdk-js/src/types/ItemTradeType.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/ItemTradeType.ts#L2)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/v2/ItemType.ts:3
+[mint-sdk-js/src/types/v2/ItemType.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/v2/ItemType.ts#L3)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/ItemsType.ts:5
+[mint-sdk-js/src/types/ItemsType.ts:5](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/ItemsType.ts#L5)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/NetworkId.ts:1
+[mint-sdk-js/src/types/NetworkId.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/NetworkId.ts#L1)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/v2/PaymentMethods.ts:3
+[mint-sdk-js/src/types/v2/PaymentMethods.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/v2/PaymentMethods.ts#L3)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/v2/PaymentMethodData.ts:8
+[mint-sdk-js/src/types/v2/PaymentMethodData.ts:8](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/v2/PaymentMethodData.ts#L8)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/Residence.ts:2
+[mint-sdk-js/src/types/Residence.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/Residence.ts#L2)
 
 ___
 
@@ -176,7 +176,7 @@ Item:Token = 1:1
 
 #### Defined in
 
-mint-sdk-js/src/types/Token.ts:6
+[mint-sdk-js/src/types/Token.ts:6](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/Token.ts#L6)
 
 ___
 
@@ -194,7 +194,7 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/WalletInfo.ts:4
+[mint-sdk-js/src/types/WalletInfo.ts:4](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/WalletInfo.ts#L4)
 
 ___
 
@@ -211,4 +211,4 @@ ___
 
 #### Defined in
 
-mint-sdk-js/src/types/WalletSetting.ts:1
+[mint-sdk-js/src/types/WalletSetting.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/d2ac52e/src/types/WalletSetting.ts#L1)
