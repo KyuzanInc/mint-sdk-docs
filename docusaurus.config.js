@@ -80,11 +80,11 @@ module.exports = {
     [
       "@docusaurus/preset-classic",
       {
-        docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          editUrl: URL_REPO,
-        },
+        // docs: {
+        //   sidebarPath: require.resolve("./sidebars.js"),
+        //   // Please change this to your repo.
+        //   editUrl: URL_REPO,
+        // },
         theme: {
           customCss: require.resolve("./src/css/index.css"),
         },
