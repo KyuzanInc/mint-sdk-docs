@@ -8,6 +8,7 @@ module.exports = {
   url: "https://kyuzaninc.github.io",
   baseUrl: "/mint-sdk-docs/",
   onBrokenLinks: "warn",
+  trailingSlash: false,
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
   organizationName: "KyuzanInc", // Usually your GitHub org/user name.
