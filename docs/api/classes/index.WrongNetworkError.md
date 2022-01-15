@@ -1,7 +1,7 @@
 ---
 id: "index.WrongNetworkError"
 title: "Class: WrongNetworkError"
-sidebar_label: "WrongNetworkError"
+sidebar_label: "index.WrongNetworkError"
 custom_edit_url: null
 ---
 

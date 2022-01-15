@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ProductERC721"
 title: "Interface: ProductERC721"
-sidebar_label: "ProductERC721"
+sidebar_label: "apiClientV2.ProductERC721"
 custom_edit_url: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "strategies.NodeStrategy"
 title: "Class: NodeStrategy"
-sidebar_label: "NodeStrategy"
+sidebar_label: "strategies.NodeStrategy"
 custom_edit_url: null
 ---
 

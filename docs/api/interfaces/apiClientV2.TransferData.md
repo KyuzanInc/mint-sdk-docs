@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.TransferData"
 title: "Interface: TransferData"
-sidebar_label: "TransferData"
+sidebar_label: "apiClientV2.TransferData"
 custom_edit_url: null
 ---
 

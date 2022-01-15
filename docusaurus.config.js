@@ -8,6 +8,7 @@ module.exports = {
   url: "https://kyuzaninc.github.io",
   baseUrl: "/mint-sdk-docs/",
   onBrokenLinks: "warn",
+  trailingSlash: false,
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
   organizationName: "KyuzanInc", // Usually your GitHub org/user name.
@@ -71,7 +72,11 @@ module.exports = {
         ],
         tsconfig: "./mint-sdk-js/tsconfig.json",
         out: "api",
-        // plugin: ["typedoc-plugin-markdown"],
+        sidebar: {
+          categoryLabel: "API",
+          position: 5,
+          fullNames: true,
+        },
       },
     ],
     "@docusaurus/plugin-ideal-image",

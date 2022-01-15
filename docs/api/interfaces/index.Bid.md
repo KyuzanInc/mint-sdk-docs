@@ -1,7 +1,7 @@
 ---
 id: "index.Bid"
 title: "Interface: Bid"
-sidebar_label: "Bid"
+sidebar_label: "index.Bid"
 custom_edit_url: null
 ---
 

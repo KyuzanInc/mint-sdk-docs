@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.TokenStandardType"
 title: "Enumeration: TokenStandardType"
-sidebar_label: "TokenStandardType"
+sidebar_label: "apiClientV2.TokenStandardType"
 custom_edit_url: null
 ---
 

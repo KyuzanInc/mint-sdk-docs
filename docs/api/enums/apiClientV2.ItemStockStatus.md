@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemStockStatus"
 title: "Enumeration: ItemStockStatus"
-sidebar_label: "ItemStockStatus"
+sidebar_label: "apiClientV2.ItemStockStatus"
 custom_edit_url: null
 ---
 

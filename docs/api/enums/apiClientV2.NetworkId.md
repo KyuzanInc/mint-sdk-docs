@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.NetworkId"
 title: "Enumeration: NetworkId"
-sidebar_label: "NetworkId"
+sidebar_label: "apiClientV2.NetworkId"
 custom_edit_url: null
 ---
 

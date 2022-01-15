@@ -1,7 +1,7 @@
 ---
 id: "strategies.WalletStrategy"
 title: "Interface: WalletStrategy"
-sidebar_label: "WalletStrategy"
+sidebar_label: "strategies.WalletStrategy"
 custom_edit_url: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.SignatureType"
 title: "Enumeration: SignatureType"
-sidebar_label: "SignatureType"
+sidebar_label: "apiClientV2.SignatureType"
 custom_edit_url: null
 ---
 

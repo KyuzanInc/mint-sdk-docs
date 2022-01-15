@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopFixedPrice"
 title: "Interface: ItemPaymentMethodDataEthereumContractERC721ShopFixedPrice"
-sidebar_label: "ItemPaymentMethodDataEthereumContractERC721ShopFixedPrice"
+sidebar_label: "apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopFixedPrice"
 custom_edit_url: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "strategies.MetamaskStrategy"
 title: "Class: MetamaskStrategy"
-sidebar_label: "MetamaskStrategy"
+sidebar_label: "strategies.MetamaskStrategy"
 custom_edit_url: null
 ---
 
