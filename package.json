@@ -12,7 +12,8 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "copyapi": "cp -r ./docs/api ./i18n/en/docusarus-plugin-content-docs/current/api"
+    "copyapi": "cp -r ./docs/api ./i18n/en/docusarus-plugin-content-docs/current/api",
+    "postinstall": "cd mint-sdk-js && npm install"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-beta.14",
