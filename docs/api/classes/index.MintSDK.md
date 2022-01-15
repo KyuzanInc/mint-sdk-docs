@@ -1,7 +1,7 @@
 ---
 id: "index.MintSDK"
 title: "Class: MintSDK"
-sidebar_label: "MintSDK"
+sidebar_label: "index.MintSDK"
 custom_edit_url: null
 ---
 

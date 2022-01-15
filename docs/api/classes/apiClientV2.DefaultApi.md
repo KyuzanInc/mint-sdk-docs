@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.DefaultApi"
 title: "Class: DefaultApi"
-sidebar_label: "DefaultApi"
+sidebar_label: "apiClientV2.DefaultApi"
 custom_edit_url: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.Configuration"
 title: "Class: Configuration"
-sidebar_label: "Configuration"
+sidebar_label: "apiClientV2.Configuration"
 custom_edit_url: null
 ---
 

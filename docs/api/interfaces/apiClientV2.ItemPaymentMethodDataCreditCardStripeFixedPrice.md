@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemPaymentMethodDataCreditCardStripeFixedPrice"
 title: "Interface: ItemPaymentMethodDataCreditCardStripeFixedPrice"
-sidebar_label: "ItemPaymentMethodDataCreditCardStripeFixedPrice"
+sidebar_label: "apiClientV2.ItemPaymentMethodDataCreditCardStripeFixedPrice"
 custom_edit_url: null
 ---
 

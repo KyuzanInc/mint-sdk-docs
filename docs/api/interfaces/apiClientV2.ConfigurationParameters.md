@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ConfigurationParameters"
 title: "Interface: ConfigurationParameters"
-sidebar_label: "ConfigurationParameters"
+sidebar_label: "apiClientV2.ConfigurationParameters"
 custom_edit_url: null
 ---
 

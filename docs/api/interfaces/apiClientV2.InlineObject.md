@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.InlineObject"
 title: "Interface: InlineObject"
-sidebar_label: "InlineObject"
+sidebar_label: "apiClientV2.InlineObject"
 custom_edit_url: null
 ---
 

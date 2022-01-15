@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.PreviewMedia"
 title: "Interface: PreviewMedia"
-sidebar_label: "PreviewMedia"
+sidebar_label: "apiClientV2.PreviewMedia"
 custom_edit_url: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.CryptoCurrencyType"
 title: "Enumeration: CryptoCurrencyType"
-sidebar_label: "CryptoCurrencyType"
+sidebar_label: "apiClientV2.CryptoCurrencyType"
 custom_edit_url: null
 ---
 

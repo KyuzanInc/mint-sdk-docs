@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ProductERC721StatusEnum"
 title: "Enumeration: ProductERC721StatusEnum"
-sidebar_label: "ProductERC721StatusEnum"
+sidebar_label: "apiClientV2.ProductERC721StatusEnum"
 custom_edit_url: null
 ---
 

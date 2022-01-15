@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ChainType"
 title: "Enumeration: ChainType"
-sidebar_label: "ChainType"
+sidebar_label: "apiClientV2.ChainType"
 custom_edit_url: null
 ---
 

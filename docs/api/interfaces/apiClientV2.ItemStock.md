@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemStock"
 title: "Interface: ItemStock"
-sidebar_label: "ItemStock"
+sidebar_label: "apiClientV2.ItemStock"
 custom_edit_url: null
 ---
 

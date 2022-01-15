@@ -72,7 +72,11 @@ module.exports = {
         ],
         tsconfig: "./mint-sdk-js/tsconfig.json",
         out: "api",
-        // plugin: ["typedoc-plugin-markdown"],
+        sidebar: {
+          categoryLabel: "API",
+          position: 5,
+          fullNames: true,
+        },
       },
     ],
     "@docusaurus/plugin-ideal-image",
