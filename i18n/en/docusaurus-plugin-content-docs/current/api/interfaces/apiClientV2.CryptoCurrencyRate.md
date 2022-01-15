@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.CryptoCurrencyRate"
 title: "Interface: CryptoCurrencyRate"
-sidebar_label: "CryptoCurrencyRate"
+sidebar_label: "apiClientV2.CryptoCurrencyRate"
 custom_edit_url: null
 ---
 

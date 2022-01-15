@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemPaymentMethodDataCreditCardStripeFixedPricePaymentMethodEnum"
 title: "Enumeration: ItemPaymentMethodDataCreditCardStripeFixedPricePaymentMethodEnum"
-sidebar_label: "ItemPaymentMethodDataCreditCardStripeFixedPricePaymentMethodEnum"
+sidebar_label: "apiClientV2.ItemPaymentMethodDataCreditCardStripeFixedPricePaymentMethodEnum"
 custom_edit_url: null
 ---
 

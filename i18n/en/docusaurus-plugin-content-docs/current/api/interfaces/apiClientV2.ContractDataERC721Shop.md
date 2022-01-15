@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ContractDataERC721Shop"
 title: "Interface: ContractDataERC721Shop"
-sidebar_label: "ContractDataERC721Shop"
+sidebar_label: "apiClientV2.ContractDataERC721Shop"
 custom_edit_url: null
 ---
 

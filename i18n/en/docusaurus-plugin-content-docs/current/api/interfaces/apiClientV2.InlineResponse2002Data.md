@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.InlineResponse2002Data"
 title: "Interface: InlineResponse2002Data"
-sidebar_label: "InlineResponse2002Data"
+sidebar_label: "apiClientV2.InlineResponse2002Data"
 custom_edit_url: null
 ---
 

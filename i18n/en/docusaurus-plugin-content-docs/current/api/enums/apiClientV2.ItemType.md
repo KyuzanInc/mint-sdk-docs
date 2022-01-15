@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemType"
 title: "Enumeration: ItemType"
-sidebar_label: "ItemType"
+sidebar_label: "apiClientV2.ItemType"
 custom_edit_url: null
 ---
 

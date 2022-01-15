@@ -1,7 +1,7 @@
 ---
 id: "index.WalletAddressProfile"
 title: "Interface: WalletAddressProfile"
-sidebar_label: "WalletAddressProfile"
+sidebar_label: "index.WalletAddressProfile"
 custom_edit_url: null
 ---
 

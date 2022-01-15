@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.Item"
 title: "Interface: Item"
-sidebar_label: "Item"
+sidebar_label: "apiClientV2.Item"
 custom_edit_url: null
 ---
 

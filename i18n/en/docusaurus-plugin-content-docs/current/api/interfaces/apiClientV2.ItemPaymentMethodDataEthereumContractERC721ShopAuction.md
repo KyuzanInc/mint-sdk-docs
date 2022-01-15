@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopAuction"
 title: "Interface: ItemPaymentMethodDataEthereumContractERC721ShopAuction"
-sidebar_label: "ItemPaymentMethodDataEthereumContractERC721ShopAuction"
+sidebar_label: "apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopAuction"
 custom_edit_url: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "index.TokenERC721"
 title: "Interface: TokenERC721"
-sidebar_label: "TokenERC721"
+sidebar_label: "index.TokenERC721"
 custom_edit_url: null
 ---
 

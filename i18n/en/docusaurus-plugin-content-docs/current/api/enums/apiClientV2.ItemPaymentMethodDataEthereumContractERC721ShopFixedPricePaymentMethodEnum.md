@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopFixedPricePaymentMethodEnum"
 title: "Enumeration: ItemPaymentMethodDataEthereumContractERC721ShopFixedPricePaymentMethodEnum"
-sidebar_label: "ItemPaymentMethodDataEthereumContractERC721ShopFixedPricePaymentMethodEnum"
+sidebar_label: "apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopFixedPricePaymentMethodEnum"
 custom_edit_url: null
 ---
 

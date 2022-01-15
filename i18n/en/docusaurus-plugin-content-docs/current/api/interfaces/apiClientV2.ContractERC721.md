@@ -1,7 +1,7 @@
 ---
 id: "apiClientV2.ContractERC721"
 title: "Interface: ContractERC721"
-sidebar_label: "ContractERC721"
+sidebar_label: "apiClientV2.ContractERC721"
 custom_edit_url: null
 ---
 

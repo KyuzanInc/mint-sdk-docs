@@ -1,7 +1,7 @@
 ---
 id: "strategies.FortmaticStrategy"
 title: "Class: FortmaticStrategy"
-sidebar_label: "FortmaticStrategy"
+sidebar_label: "strategies.FortmaticStrategy"
 custom_edit_url: null
 ---
 
