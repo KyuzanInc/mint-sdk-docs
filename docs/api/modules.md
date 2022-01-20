@@ -9,7 +9,5 @@ custom_edit_url: null
 
 ## Modules
 
-- [apiClientV2](modules/apiClientV2)
-- [constants](modules/constants)
+- [Errors](modules/Errors)
 - [index](modules/)
-- [strategies](modules/strategies)

@@ -25,7 +25,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:113](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L113)
+[mint-sdk-js/src/index.ts:113](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L113)
 
 ## Properties
 
@@ -57,17 +57,17 @@ await sdk.getWalletInfo()
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:211](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L211)
+[mint-sdk-js/src/index.ts:211](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L211)
 
 ___
 
 ### walletStrategy
 
-• `Private` **walletStrategy**: [`WalletStrategy`](../interfaces/strategies.WalletStrategy)
+• `Private` **walletStrategy**: `WalletStrategy`
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:105](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L105)
+[mint-sdk-js/src/index.ts:105](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L105)
 
 ## Methods
 
@@ -106,7 +106,7 @@ await sdk.addEthereumChain(137)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1011](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1011)
+[mint-sdk-js/src/index.ts:1011](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L1011)
 
 ___
 
@@ -137,7 +137,7 @@ await sdk.isWalletConnect()  // true
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:170](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L170)
+[mint-sdk-js/src/index.ts:170](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L170)
 
 ___
 
@@ -166,7 +166,7 @@ await sdk.disconnectWallet()
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:190](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L190)
+[mint-sdk-js/src/index.ts:190](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L190)
 
 ___
 
@@ -206,7 +206,7 @@ const accountInfo = await sdk.getAccountInfo({ walletAddress: '0xxxxxxxx' })
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1146](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1146)
+[mint-sdk-js/src/index.ts:1146](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L1146)
 
 ___
 
@@ -244,7 +244,7 @@ const items = await sdk.getBoughtItemStocksByWalletAddress(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:343](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L343)
+[mint-sdk-js/src/index.ts:343](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L343)
 
 ___
 
@@ -269,7 +269,7 @@ await sdk.getConnectedNetworkId()
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:856](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L856)
+[mint-sdk-js/src/index.ts:856](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L856)
 
 ___
 
@@ -300,7 +300,7 @@ const items = await sdk.getContractERC721ById(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:485](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L485)
+[mint-sdk-js/src/index.ts:485](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L485)
 
 ___
 
@@ -329,7 +329,7 @@ const item = await sdk.getItemById('item.id')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:416](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L416)
+[mint-sdk-js/src/index.ts:416](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L416)
 
 ___
 
@@ -364,7 +364,7 @@ const items = await sdk.getItemStockById(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:320](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L320)
+[mint-sdk-js/src/index.ts:320](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L320)
 
 ___
 
@@ -400,7 +400,7 @@ const item = await sdk.getItemsByBidderAddress('0x1111......')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:376](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L376)
+[mint-sdk-js/src/index.ts:376](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L376)
 
 ___
 
@@ -443,13 +443,13 @@ const items = await sdk.getItems(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:265](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L265)
+[mint-sdk-js/src/index.ts:265](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L265)
 
 ___
 
 ### getProductERC721ById
 
-▸ **getProductERC721ById**(`id`): `Promise`<[`ProductERC721`](../interfaces/apiClientV2.ProductERC721)\>
+▸ **getProductERC721ById**(`id`): `Promise`<`ProductERC721`\>
 
 id指定で製品を取得
 Returns the ProductERC721 by the ID
@@ -462,7 +462,7 @@ Returns the ProductERC721 by the ID
 
 #### Returns
 
-`Promise`<[`ProductERC721`](../interfaces/apiClientV2.ProductERC721)\>
+`Promise`<`ProductERC721`\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -472,7 +472,7 @@ const item = await sdk.getProductERC721ById('id')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:437](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L437)
+[mint-sdk-js/src/index.ts:437](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L437)
 
 ___
 
@@ -504,7 +504,7 @@ const tokens = await sdk.getTokensByAddress('0x11111...')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:458](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L458)
+[mint-sdk-js/src/index.ts:458](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L458)
 
 ___
 
@@ -530,7 +530,7 @@ await sdk.isInjectedWallet() // true
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:838](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L838)
+[mint-sdk-js/src/index.ts:838](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L838)
 
 ___
 
@@ -549,7 +549,7 @@ Returns if an account is valid.
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:148](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L148)
+[mint-sdk-js/src/index.ts:148](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L148)
 
 ___
 
@@ -582,7 +582,7 @@ sdk.onAccountsChange((accounts: string[]) => {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:744](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L744)
+[mint-sdk-js/src/index.ts:744](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L744)
 
 ___
 
@@ -615,7 +615,7 @@ sdk.onConnect(() => {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:770](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L770)
+[mint-sdk-js/src/index.ts:770](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L770)
 
 ___
 
@@ -648,7 +648,7 @@ sdk.onDisconnect(() => {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:796](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L796)
+[mint-sdk-js/src/index.ts:796](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L796)
 
 ___
 
@@ -692,7 +692,7 @@ try {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:521](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L521)
+[mint-sdk-js/src/index.ts:521](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L521)
 
 ___
 
@@ -737,7 +737,7 @@ try {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:676](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L676)
+[mint-sdk-js/src/index.ts:676](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L676)
 
 ___
 
@@ -783,7 +783,7 @@ try {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:605](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L605)
+[mint-sdk-js/src/index.ts:605](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L605)
 
 ___
 
@@ -825,7 +825,7 @@ const { data, sig } = await sdk.signTypedData(arg)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:916](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L916)
+[mint-sdk-js/src/index.ts:916](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L916)
 
 ___
 
@@ -851,7 +851,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1075](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1075)
+[mint-sdk-js/src/index.ts:1075](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L1075)
 
 ___
 
@@ -872,7 +872,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1108](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1108)
+[mint-sdk-js/src/index.ts:1108](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L1108)
 
 ___
 
@@ -899,7 +899,7 @@ When the transaction is successful, it returns a Resolve.
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:239](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L239)
+[mint-sdk-js/src/index.ts:239](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L239)
 
 ___
 
@@ -924,7 +924,7 @@ Ether単位でパースされたstring
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:96](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L96)
+[mint-sdk-js/src/index.ts:96](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L96)
 
 ___
 
@@ -949,7 +949,7 @@ etherをBigNumberとしてparseしたもの
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:75](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L75)
+[mint-sdk-js/src/index.ts:75](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L75)
 
 ___
 
@@ -989,4 +989,4 @@ if(address.toLowerCase() === recoverdAddress){
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:967](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L967)
+[mint-sdk-js/src/index.ts:967](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/index.ts#L967)

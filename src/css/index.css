@@ -67,18 +67,6 @@ html[data-theme="dark"] .navbar__item.navbar__link[href*="npm"]:before {
   background-image: url("/img/logo_npm_inverted.svg");
 }
 
-.navbar__item.navbar__link[href*="mintnft"]:before {
-  content: "";
-  width: 1.5rem;
-  height: 1.5rem;
-  padding-right: 0.2rem;
-  background-image: url("/img/icon_external.svg");
-  background-repeat: no-repeat;
-}
-
-html[data-theme="dark"] .navbar__item.navbar__link[href*="mintnft"]:before {
-  background-image: url("/img/icon_external_inverted.svg");
-}
 
 @media screen and (max-width: 966px) {
   .navbar__item.navbar__link[href*="github"],

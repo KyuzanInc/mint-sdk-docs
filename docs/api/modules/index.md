@@ -9,13 +9,18 @@ custom_edit_url: null
 ## Classes
 
 - [MintSDK](../classes/.MintSDK)
-- [WrongNetworkError](../classes/.WrongNetworkError)
 
 ## Interfaces
 
 - [Bid](../interfaces/.Bid)
 - [TokenERC721](../interfaces/.TokenERC721)
 - [WalletAddressProfile](../interfaces/.WalletAddressProfile)
+
+## References
+
+### WrongNetworkError
+
+Re-exports [WrongNetworkError](../classes/Errors.WrongNetworkError)
 
 ## Type aliases
 
@@ -25,7 +30,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[mint-sdk-js/src/types/BigNumber.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/BigNumber.ts#L3)
+[mint-sdk-js/src/types/BigNumber.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/BigNumber.ts#L3)
 
 ___
 
@@ -35,17 +40,17 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/CurrencyUnit.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/CurrencyUnit.ts#L3)
+[mint-sdk-js/src/types/CurrencyUnit.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/CurrencyUnit.ts#L3)
 
 ___
 
 ### Item
 
-Ƭ **Item**: `Omit`<[`Item`](../interfaces/apiClientV2.Item), ``"paymentMethodData"`` \| ``"type"`` \| ``"cryptoCurrency"``\> & { `cryptoCurrency`: `CryptoCurrencyRate` ; `paymentMethodData`: [`PaymentMethodData`](#paymentmethoddata) ; `type`: [`ItemType`](#itemtype)  }
+Ƭ **Item**: `Omit`<`APIItem`, ``"paymentMethodData"`` \| ``"type"`` \| ``"cryptoCurrency"``\> & { `cryptoCurrency`: `CryptoCurrencyRate` ; `paymentMethodData`: [`PaymentMethodData`](#paymentmethoddata) ; `type`: [`ItemType`](#itemtype)  }
 
 #### Defined in
 
-[mint-sdk-js/src/types/v2/Item.ts:6](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/v2/Item.ts#L6)
+[mint-sdk-js/src/types/v2/Item.ts:6](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/v2/Item.ts#L6)
 
 ___
 
@@ -65,17 +70,17 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/ItemLog.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/ItemLog.ts#L1)
+[mint-sdk-js/src/types/ItemLog.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/ItemLog.ts#L1)
 
 ___
 
 ### ItemStock
 
-Ƭ **ItemStock**: `Omit`<[`ItemStock`](../interfaces/apiClientV2.ItemStock), ``"status"`` \| ``"item"``\> & { `item`: [`Item`](#item) ; `status`: `ItemStockStatus`  }
+Ƭ **ItemStock**: `Omit`<`APIItemStock`, ``"status"`` \| ``"item"``\> & { `item`: [`Item`](#item) ; `status`: `ItemStockStatus`  }
 
 #### Defined in
 
-[mint-sdk-js/src/types/v2/ItemStock.ts:5](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/v2/ItemStock.ts#L5)
+[mint-sdk-js/src/types/v2/ItemStock.ts:5](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/v2/ItemStock.ts#L5)
 
 ___
 
@@ -85,17 +90,17 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/ItemTradeType.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/ItemTradeType.ts#L2)
+[mint-sdk-js/src/types/ItemTradeType.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/ItemTradeType.ts#L2)
 
 ___
 
 ### ItemType
 
-Ƭ **ItemType**: \`${ItemType}\`
+Ƭ **ItemType**: \`${ItemTypeEnum}\`
 
 #### Defined in
 
-[mint-sdk-js/src/types/v2/ItemType.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/v2/ItemType.ts#L3)
+[mint-sdk-js/src/types/v2/ItemType.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/v2/ItemType.ts#L3)
 
 ___
 
@@ -105,7 +110,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/ItemsType.ts:13](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/ItemsType.ts#L13)
+[mint-sdk-js/src/types/ItemsType.ts:13](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/ItemsType.ts#L13)
 
 ___
 
@@ -115,7 +120,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/NetworkId.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/NetworkId.ts#L1)
+[mint-sdk-js/src/types/NetworkId.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/NetworkId.ts#L1)
 
 ___
 
@@ -125,17 +130,17 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/v2/PaymentMethods.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/v2/PaymentMethods.ts#L3)
+[mint-sdk-js/src/types/v2/PaymentMethods.ts:3](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/v2/PaymentMethods.ts#L3)
 
 ___
 
 ### PaymentMethodData
 
-Ƭ **PaymentMethodData**: { `contractDataERC721Shop`: [`ContractDataERC721Shop`](../interfaces/apiClientV2.ContractDataERC721Shop) ; `paymentMethod`: ``"ethereum-contract-erc721-shop-fixed-price"``  } & `Omit`<[`ItemPaymentMethodDataEthereumContractERC721ShopFixedPrice`](../interfaces/apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopFixedPrice), ``"paymentMethod"``\> \| { `paymentMethod`: ``"ethereum-contract-erc721-shop-auction"``  } & `Omit`<[`ItemPaymentMethodDataEthereumContractERC721ShopAuction`](../interfaces/apiClientV2.ItemPaymentMethodDataEthereumContractERC721ShopAuction), ``"paymentMethod"``\> \| { `paymentMethod`: ``"credit-card-stripe-fixed-price"``  } & `Omit`<[`ItemPaymentMethodDataCreditCardStripeFixedPrice`](../interfaces/apiClientV2.ItemPaymentMethodDataCreditCardStripeFixedPrice), ``"paymentMethod"``\>
+Ƭ **PaymentMethodData**: { `contractDataERC721Shop`: `ContractDataERC721Shop` ; `paymentMethod`: ``"ethereum-contract-erc721-shop-fixed-price"``  } & `Omit`<`ItemPaymentMethodDataEthereumContractERC721ShopFixedPrice`, ``"paymentMethod"``\> \| { `paymentMethod`: ``"ethereum-contract-erc721-shop-auction"``  } & `Omit`<`ItemPaymentMethodDataEthereumContractERC721ShopAuction`, ``"paymentMethod"``\> \| { `paymentMethod`: ``"credit-card-stripe-fixed-price"``  } & `Omit`<`ItemPaymentMethodDataCreditCardStripeFixedPrice`, ``"paymentMethod"``\>
 
 #### Defined in
 
-[mint-sdk-js/src/types/v2/PaymentMethodData.ts:8](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/v2/PaymentMethodData.ts#L8)
+[mint-sdk-js/src/types/v2/PaymentMethodData.ts:8](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/v2/PaymentMethodData.ts#L8)
 
 ___
 
@@ -145,7 +150,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/Residence.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/Residence.ts#L2)
+[mint-sdk-js/src/types/Residence.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/Residence.ts#L2)
 
 ___
 
@@ -177,7 +182,7 @@ Item:Token = 1:1
 
 #### Defined in
 
-[mint-sdk-js/src/types/Token.ts:7](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/Token.ts#L7)
+[mint-sdk-js/src/types/Token.ts:7](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/Token.ts#L7)
 
 ___
 
@@ -195,7 +200,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/WalletInfo.ts:4](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/WalletInfo.ts#L4)
+[mint-sdk-js/src/types/WalletInfo.ts:4](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/WalletInfo.ts#L4)
 
 ___
 
@@ -212,4 +217,4 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/types/WalletSetting.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/types/WalletSetting.ts#L1)
+[mint-sdk-js/src/types/WalletSetting.ts:1](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/types/WalletSetting.ts#L1)
