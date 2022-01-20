@@ -1,11 +1,10 @@
 ---
-id: "Errors.WrongNetworkError"
+id: "WrongNetworkError"
 title: "Class: WrongNetworkError"
-sidebar_label: "Errors.WrongNetworkError"
+sidebar_label: "WrongNetworkError"
+sidebar_position: 0
 custom_edit_url: null
 ---
-
-[Errors](../modules/Errors).WrongNetworkError
 
 ユーザーのウォレットが接続しているネットワークが正しくない
 The network connected to the wallet is not correct.
@@ -34,7 +33,7 @@ BaseError.constructor
 
 #### Defined in
 
-[mint-sdk-js/src/Errors.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/7cbd1d1/src/Errors.ts#L2)
+[mint-sdk-js/src/Errors.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/Errors.ts#L2)
 
 ## Properties
 

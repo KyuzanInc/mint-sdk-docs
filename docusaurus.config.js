@@ -61,16 +61,15 @@ module.exports = {
   plugins: [
     [
       'docusaurus-plugin-typedoc',
-      // Plugin / TypeDoc options
       {
         entryPoints: [
           './mint-sdk-js/src/index.ts',
-          './mint-sdk-js/src/Errors.ts',
+          // './mint-sdk-js/src/Errors.ts',
         ],
         tsconfig: './mint-sdk-js/tsconfig.json',
         out: 'api',
         sidebar: {
-          categoryLabel: 'MintSDK',
+          categoryLabel: '@kyuzan/mint-sdk-js',
           position: 5,
           fullNames: true,
         },
