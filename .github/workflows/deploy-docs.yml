@@ -1,7 +1,8 @@
 name: deploy-docs
 on:
-  # クリックによってデプロイ
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 jobs:
   # This workflow contains a single job called "build"
   deploy:
