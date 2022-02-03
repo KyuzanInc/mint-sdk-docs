@@ -1,19 +1,19 @@
-import React from "react";
-import clsx from "clsx";
-import Layout from "@theme/Layout";
-import Link from "@docusaurus/Link";
-import useBaseUrl from "@docusaurus/useBaseUrl";
-import styles from "./styles.module.css";
-import Translate from "@docusaurus/Translate";
+import React from 'react'
+import clsx from 'clsx'
+import Layout from '@theme/Layout'
+import Link from '@docusaurus/Link'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+import styles from './styles.module.css'
+import Translate from '@docusaurus/Translate'
 
 export default function Home() {
   return (
     <Layout
       title={`あなたのNFTショップ構築に並走します`}
-      description="Mint SDKは、NFT Shop開発に特化したJavaScriptライブラリです。Mint SDKと管理者ダッシュボードを使うことで、素早く簡単にオリジナルNFT Shopを作成し、オリジナルのNFTを販売することができます。"
+      description="Mint SDKは、NFTアプリ開発に特化したJavaScriptライブラリです。Mint SDKと管理者ダッシュボードを使うことで、素早く簡単にオリジナルNFT Shopを作成し、オリジナルのNFTを販売することができます。"
     >
-      <header className={clsx("hero hero--primary", styles.heroBanner)}>
-        <div className={clsx("heroContainer", styles.heroContainer)}>
+      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+        <div className={clsx('heroContainer', styles.heroContainer)}>
           <div className={clsx(styles.heroContainerLeft)}>
             <h2 className={clsx(styles.heroContainerLeftTitle)}>
               Mint helps you build
@@ -22,7 +22,8 @@ export default function Home() {
             </h2>
             <p className={clsx(styles.heroContainerLeftDescription)}>
               <Translate id="homepage.Catch">
-                Mint SDKは、NFT Shop開発に特化したJavaScriptライブラリです。MINT
+                Mint SDKは、NFT
+                アプリ開発に特化したJavaScriptライブラリです。MINT
                 SDKと管理者ダッシュボードを使うことで、素早く簡単にオリジナルNFT
                 Shopを作成し、オリジナルのNFTを販売することができます。
               </Translate>
@@ -30,44 +31,45 @@ export default function Home() {
             <div className={clsx(styles.heroContainerLeftButtons)}>
               <Link
                 className={clsx(
-                  "button button--primary button--lg",
-                  styles.getStarted
+                  'button button--primary button--lg',
+                  styles.getStarted,
                 )}
-                href={"http://demo.mintnft.jp/"}
+                href={'https://github.com/KyuzanInc/mint-sdk-examples'}
               >
                 Try Demo
               </Link>
               <Link
                 className={clsx(
-                  "button button--primary button--lg",
-                  styles.learnMore
+                  'button button--primary button--lg',
+                  styles.learnMore,
                 )}
-                href={"http://mintnft.jp/"}
+                href={'http://mintnft.jp/'}
               >
                 Learn More
               </Link>
             </div>
           </div>
           <div className={clsx(styles.heroContainerRight)}>
-            <img src={"img/hero.svg"} alt={"about mint"} />
+            <img src={'img/hero.svg'} alt={'about mint'} />
           </div>
         </div>
       </header>
       <main>
         <div className={clsx(styles.contentContainer)}>
           <div className={clsx(styles.contentImg)}>
-            <img src={"img/content_mint_sdk.svg"} alt={"mint sdk"} />
+            <img src={'img/content_mint_sdk.svg'} alt={'mint sdk'} />
           </div>
           <div className={clsx(styles.contentText)}>
             <h3 className={clsx(styles.contentTitle)}>Mint SDK</h3>
             <div className={clsx(styles.contentDescription)}>
               <Translate id="homepage.Description">
-                Mint SDKは、NFT Shop開発に特化したJavaScriptライブラリです。DEMO
+                Mint
+                SDKは、NFTアプリ開発に特化したJavaScriptライブラリです。DEMO
                 では、Mint SDKを使用して開発した NFT Shop をみることができます。
               </Translate>
             </div>
-            <Link
-              href={"https://demo.mintnft.jp"}
+            {/* <Link
+              href={'https://demo.mintnft.jp'}
               className={clsx(styles.contentLink)}
             >
               <Translate id="homepage.DemoLink">DEMOをみる</Translate>
@@ -77,16 +79,12 @@ export default function Home() {
                 DEMOのソースコードはオープンソースとなっています。実際の動作を確認しながらMint
                 SDKの使用方法を理解することができます。
               </Translate>
-            </div>
+            </div> */}
             <Link
-              href={
-                "https://github.com/KyuzanInc/mint-sdk-js/tree/multi_network"
-              }
+              href={'https://github.com/KyuzanInc/mint-sdk-examples'}
               className={clsx(styles.contentLink)}
             >
-              <Translate id="homepage.OSSLink">
-                DEMOのソースコードを見る
-              </Translate>
+              <Translate id="homepage.OSSLink">Example集を見る</Translate>
             </Link>
             <div className={clsx(styles.contentDescription)}>
               <Translate id="homepage.APIDescription">
@@ -95,7 +93,7 @@ export default function Home() {
               </Translate>
             </div>
             <Link
-              to={useBaseUrl("/docs/api")}
+              to={useBaseUrl('/docs/api')}
               className={clsx(styles.contentLink)}
             >
               <Translate id="homepage.APILink">APIドキュメントを見る</Translate>
@@ -104,7 +102,7 @@ export default function Home() {
         </div>
         <div className={clsx(styles.contentContainerReverse)}>
           <div className={clsx(styles.contentImgReverse)}>
-            <img src={"img/content_dashboard.svg"} alt={"dashboard"} />
+            <img src={'img/content_dashboard.svg'} alt={'dashboard'} />
           </div>
           <div className={clsx(styles.contentText)}>
             <h3 className={clsx(styles.contentTitle)}>DASHBOARD</h3>
@@ -119,7 +117,7 @@ export default function Home() {
               </Translate>
             </div>
             <Link
-              href={"https://www.mintnft.jp/#contact-form"}
+              href={'https://www.mintnft.jp/#contact-form'}
               className={clsx(styles.contentLink)}
             >
               <Translate id="homepage.CallToAction">今すぐはじめる</Translate>
@@ -128,5 +126,5 @@ export default function Home() {
         </div>
       </main>
     </Layout>
-  );
+  )
 }
