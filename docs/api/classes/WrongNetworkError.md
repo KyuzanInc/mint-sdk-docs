@@ -33,7 +33,7 @@ BaseError.constructor
 
 #### Defined in
 
-[mint-sdk-js/src/Errors.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/Errors.ts#L2)
+[mint-sdk-js/src/Errors.ts:2](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/Errors.ts#L2)
 
 ## Properties
 
@@ -79,39 +79,6 @@ node_modules/typescript/lib/lib.es5.d.ts:1024
 
 ___
 
-### prepareStackTrace
-
-▪ `Static` `Optional` **prepareStackTrace**: (`err`: `Error`, `stackTraces`: `CallSite`[]) => `any`
-
-#### Type declaration
-
-▸ (`err`, `stackTraces`): `any`
-
-Optional override for formatting stack traces
-
-**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
-##### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `err` | `Error` |
-| `stackTraces` | `CallSite`[] |
-
-##### Returns
-
-`any`
-
-#### Inherited from
-
-BaseError.prepareStackTrace
-
-#### Defined in
-
-mint-sdk-js/node_modules/@types/node/globals.d.ts:11
-
-___
-
 ### stackTraceLimit
 
 ▪ `Static` **stackTraceLimit**: `number`
@@ -150,3 +117,32 @@ BaseError.captureStackTrace
 #### Defined in
 
 mint-sdk-js/node_modules/@types/node/globals.d.ts:4
+
+___
+
+### prepareStackTrace
+
+▸ `Static` `Optional` **prepareStackTrace**(`err`, `stackTraces`): `any`
+
+Optional override for formatting stack traces
+
+**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `err` | `Error` |
+| `stackTraces` | `CallSite`[] |
+
+#### Returns
+
+`any`
+
+#### Inherited from
+
+BaseError.prepareStackTrace
+
+#### Defined in
+
+mint-sdk-js/node_modules/@types/node/globals.d.ts:11

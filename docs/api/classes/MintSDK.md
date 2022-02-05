@@ -17,24 +17,24 @@ custom_edit_url: null
 | Name | Type |
 | :------ | :------ |
 | `accessToken` | `string` |
-| `walletSetting` | [`WalletSetting`](../modules#walletsetting) |
+| `walletSetting` | [`WalletSetting`](../modules.md#walletsetting) |
 | `devOption?` | `Object` |
 | `devOption.backendUrl?` | `string` |
 | `devOption.jsonRPCUrl?` | `string` |
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:113](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L113)
+[mint-sdk-js/src/index.ts:113](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L113)
 
 ## Properties
 
 ### getWalletInfo
 
-• **getWalletInfo**: () => `Promise`<[`WalletInfo`](../modules#walletinfo)\>
+• **getWalletInfo**: () => `Promise`<[`WalletInfo`](../modules.md#walletinfo)\>
 
 #### Type declaration
 
-▸ (): `Promise`<[`WalletInfo`](../modules#walletinfo)\>
+▸ (): `Promise`<[`WalletInfo`](../modules.md#walletinfo)\>
 
 ウォレットのアカウントと残高情報などの情報が取得できる
 Can get the transactional history and other account information.
@@ -45,7 +45,7 @@ Can get the transactional history and other account information.
 
 ##### Returns
 
-`Promise`<[`WalletInfo`](../modules#walletinfo)\>
+`Promise`<[`WalletInfo`](../modules.md#walletinfo)\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -56,7 +56,7 @@ await sdk.getWalletInfo()
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:211](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L211)
+[mint-sdk-js/src/index.ts:211](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L211)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:105](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L105)
+[mint-sdk-js/src/index.ts:105](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L105)
 
 ## Methods
 
@@ -105,7 +105,7 @@ await sdk.addEthereumChain(137)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1011](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L1011)
+[mint-sdk-js/src/index.ts:1011](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1011)
 
 ___
 
@@ -136,7 +136,7 @@ await sdk.isWalletConnect()  // true
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:170](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L170)
+[mint-sdk-js/src/index.ts:170](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L170)
 
 ___
 
@@ -165,13 +165,13 @@ await sdk.disconnectWallet()
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:190](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L190)
+[mint-sdk-js/src/index.ts:190](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L190)
 
 ___
 
 ### getAccountInfo
 
-▸ **getAccountInfo**(`arg`): `Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/WalletAddressProfile) = response.data.data.profile }\>
+▸ **getAccountInfo**(`arg`): `Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/WalletAddressProfile.md) = response.data.data.profile }\>
 
 Returns the account information pertaining to the wallet such as display name or profile picture.
 If there is nothing set, will return a blank string.
@@ -201,17 +201,17 @@ const accountInfo = await sdk.getAccountInfo({ walletAddress: '0xxxxxxxx' })
 
 #### Returns
 
-`Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/WalletAddressProfile) = response.data.data.profile }\>
+`Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/WalletAddressProfile.md) = response.data.data.profile }\>
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1146](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L1146)
+[mint-sdk-js/src/index.ts:1146](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1146)
 
 ___
 
 ### getBoughtItemStocksByWalletAddress
 
-▸ **getBoughtItemStocksByWalletAddress**(`arg`): `Promise`<[`ItemStock`](../modules#itemstock)[]\>
+▸ **getBoughtItemStocksByWalletAddress**(`arg`): `Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
 
 指定したwalletAddressで購入または落札したItemStockを取得する
 Returns the ItemStock that was sold to a certain wallet address
@@ -232,7 +232,7 @@ Returns the ItemStock that was sold to a certain wallet address
 
 #### Returns
 
-`Promise`<[`ItemStock`](../modules#itemstock)[]\>
+`Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -243,7 +243,7 @@ const items = await sdk.getBoughtItemStocksByWalletAddress(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:343](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L343)
+[mint-sdk-js/src/index.ts:343](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L343)
 
 ___
 
@@ -268,7 +268,7 @@ await sdk.getConnectedNetworkId()
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:856](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L856)
+[mint-sdk-js/src/index.ts:856](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L856)
 
 ___
 
@@ -299,13 +299,13 @@ const items = await sdk.getContractERC721ById(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:485](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L485)
+[mint-sdk-js/src/index.ts:485](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L485)
 
 ___
 
 ### getItemById
 
-▸ **getItemById**(`itemId`): `Promise`<[`Item`](../modules#item)\>
+▸ **getItemById**(`itemId`): `Promise`<[`Item`](../modules.md#item)\>
 
 商品をid指定でアイテムを取得
 Returns the Item from the specified itemId.
@@ -318,7 +318,7 @@ Returns the Item from the specified itemId.
 
 #### Returns
 
-`Promise`<[`Item`](../modules#item)\>
+`Promise`<[`Item`](../modules.md#item)\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -328,13 +328,13 @@ const item = await sdk.getItemById('item.id')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:416](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L416)
+[mint-sdk-js/src/index.ts:416](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L416)
 
 ___
 
 ### getItemStockById
 
-▸ **getItemStockById**(`arg`): `Promise`<[`ItemStock`](../modules#itemstock)\>
+▸ **getItemStockById**(`arg`): `Promise`<[`ItemStock`](../modules.md#itemstock)\>
 
 ItemStockを取得する
 Returns the ItemStock
@@ -352,7 +352,7 @@ Returns the ItemStock
 
 #### Returns
 
-`Promise`<[`ItemStock`](../modules#itemstock)\>
+`Promise`<[`ItemStock`](../modules.md#itemstock)\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -363,13 +363,13 @@ const items = await sdk.getItemStockById(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:320](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L320)
+[mint-sdk-js/src/index.ts:320](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L320)
 
 ___
 
 ### getItemStocksByBidderAddress
 
-▸ **getItemStocksByBidderAddress**(`arg`): `Promise`<[`ItemStock`](../modules#itemstock)[]\>
+▸ **getItemStocksByBidderAddress**(`arg`): `Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
 
 指定したアドレスがBidしたItemの一覧を取得
 Returns all the bidded items ( as ItemStock ) that a certain address has done
@@ -389,7 +389,7 @@ Returns all the bidded items ( as ItemStock ) that a certain address has done
 
 #### Returns
 
-`Promise`<[`ItemStock`](../modules#itemstock)[]\>
+`Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -399,13 +399,13 @@ const item = await sdk.getItemsByBidderAddress('0x1111......')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:376](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L376)
+[mint-sdk-js/src/index.ts:376](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L376)
 
 ___
 
 ### getItems
 
-▸ **getItems**(`__namedParameters`): `Promise`<[`Item`](../modules#item)[]\>
+▸ **getItems**(`__namedParameters`): `Promise`<[`Item`](../modules.md#item)[]\>
 
 公開中の商品を取得
 ステータスの変更は管理画面から行えます。
@@ -431,7 +431,7 @@ The status of the items can be changed from the admin panel
 
 #### Returns
 
-`Promise`<[`Item`](../modules#item)[]\>
+`Promise`<[`Item`](../modules.md#item)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -442,7 +442,7 @@ const items = await sdk.getItems(...)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:265](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L265)
+[mint-sdk-js/src/index.ts:265](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L265)
 
 ___
 
@@ -471,13 +471,13 @@ const item = await sdk.getProductERC721ById('id')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:437](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L437)
+[mint-sdk-js/src/index.ts:437](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L437)
 
 ___
 
 ### getTokensByAddress
 
-▸ **getTokensByAddress**(`arg`): `Promise`<[`TokenERC721`](../interfaces/TokenERC721)[]\>
+▸ **getTokensByAddress**(`arg`): `Promise`<[`TokenERC721`](../interfaces/TokenERC721.md)[]\>
 
 指定したアドレスが所持しているMINT経由で獲得したトークンを取得
 Returns the Tokens (NFT) that a certain address is holding through MINT
@@ -493,7 +493,7 @@ Returns the Tokens (NFT) that a certain address is holding through MINT
 
 #### Returns
 
-`Promise`<[`TokenERC721`](../interfaces/TokenERC721)[]\>
+`Promise`<[`TokenERC721`](../interfaces/TokenERC721.md)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -503,7 +503,7 @@ const tokens = await sdk.getTokensByAddress('0x11111...')
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:458](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L458)
+[mint-sdk-js/src/index.ts:458](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L458)
 
 ___
 
@@ -529,7 +529,7 @@ await sdk.isInjectedWallet() // true
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:838](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L838)
+[mint-sdk-js/src/index.ts:838](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L838)
 
 ___
 
@@ -548,7 +548,7 @@ Returns if an account is valid.
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:148](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L148)
+[mint-sdk-js/src/index.ts:148](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L148)
 
 ___
 
@@ -581,7 +581,7 @@ sdk.onAccountsChange((accounts: string[]) => {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:744](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L744)
+[mint-sdk-js/src/index.ts:744](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L744)
 
 ___
 
@@ -614,7 +614,7 @@ sdk.onConnect(() => {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:770](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L770)
+[mint-sdk-js/src/index.ts:770](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L770)
 
 ___
 
@@ -647,7 +647,7 @@ sdk.onDisconnect(() => {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:796](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L796)
+[mint-sdk-js/src/index.ts:796](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L796)
 
 ___
 
@@ -668,7 +668,7 @@ The total amount of the bid is passed through the `bidPrice` argument.
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `itemId` | `string` | [Item](../modules#item)のitemId |
+| `itemId` | `string` | [Item](../modules.md#item)のitemId |
 | `bidPrice` | `number` | 単位はether / Unit is in ether |
 
 #### Returns
@@ -691,7 +691,7 @@ try {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:521](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L521)
+[mint-sdk-js/src/index.ts:521](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L521)
 
 ___
 
@@ -713,7 +713,7 @@ Requires a UI that asks for the users residence for accommodating for consumptio
 
 | Name | Type | Default value | Description |
 | :------ | :------ | :------ | :------ |
-| `itemId` | `string` | `undefined` | [Item](../modules#item)のitemId |
+| `itemId` | `string` | `undefined` | [Item](../modules.md#item)のitemId |
 | `residence` | ``"jp"`` \| ``"unknown"`` | `'unknown'` | - |
 
 #### Returns
@@ -736,7 +736,7 @@ try {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:676](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L676)
+[mint-sdk-js/src/index.ts:676](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L676)
 
 ___
 
@@ -759,7 +759,7 @@ Requires a UI that asks for the users residence for accommodating for consumptio
 
 | Name | Type | Default value | Description |
 | :------ | :------ | :------ | :------ |
-| `itemId` | `string` | `undefined` | [Item](../modules#item)のitemId |
+| `itemId` | `string` | `undefined` | [Item](../modules.md#item)のitemId |
 | `residence` | ``"jp"`` \| ``"unknown"`` | `'unknown'` | - |
 
 #### Returns
@@ -782,7 +782,7 @@ try {
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:605](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L605)
+[mint-sdk-js/src/index.ts:605](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L605)
 
 ___
 
@@ -824,7 +824,7 @@ const { data, sig } = await sdk.signTypedData(arg)
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:916](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L916)
+[mint-sdk-js/src/index.ts:916](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L916)
 
 ___
 
@@ -850,7 +850,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1075](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L1075)
+[mint-sdk-js/src/index.ts:1075](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1075)
 
 ___
 
@@ -871,7 +871,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:1108](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L1108)
+[mint-sdk-js/src/index.ts:1108](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L1108)
 
 ___
 
@@ -898,7 +898,7 @@ When the transaction is successful, it returns a Resolve.
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:239](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L239)
+[mint-sdk-js/src/index.ts:239](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L239)
 
 ___
 
@@ -923,7 +923,7 @@ Ether単位でパースされたstring
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:96](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L96)
+[mint-sdk-js/src/index.ts:96](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L96)
 
 ___
 
@@ -948,7 +948,7 @@ etherをBigNumberとしてparseしたもの
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:75](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L75)
+[mint-sdk-js/src/index.ts:75](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L75)
 
 ___
 
@@ -988,4 +988,4 @@ if(address.toLowerCase() === recoverdAddress){
 
 #### Defined in
 
-[mint-sdk-js/src/index.ts:967](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/index.ts#L967)
+[mint-sdk-js/src/index.ts:967](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/index.ts#L967)

@@ -20,7 +20,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[mint-sdk-js/src/apiClientV2/api.ts:1177](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/apiClientV2/api.ts#L1177)
+[mint-sdk-js/src/apiClientV2/api.ts:1177](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/apiClientV2/api.ts#L1177)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/apiClientV2/api.ts:1189](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/apiClientV2/api.ts#L1189)
+[mint-sdk-js/src/apiClientV2/api.ts:1189](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/apiClientV2/api.ts#L1189)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/apiClientV2/api.ts:1183](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/apiClientV2/api.ts#L1183)
+[mint-sdk-js/src/apiClientV2/api.ts:1183](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/apiClientV2/api.ts#L1183)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/apiClientV2/api.ts:1207](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/apiClientV2/api.ts#L1207)
+[mint-sdk-js/src/apiClientV2/api.ts:1207](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/apiClientV2/api.ts#L1207)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/apiClientV2/api.ts:1201](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/apiClientV2/api.ts#L1201)
+[mint-sdk-js/src/apiClientV2/api.ts:1201](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/apiClientV2/api.ts#L1201)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/apiClientV2/api.ts:1195](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/apiClientV2/api.ts#L1195)
+[mint-sdk-js/src/apiClientV2/api.ts:1195](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/apiClientV2/api.ts#L1195)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[mint-sdk-js/src/apiClientV2/api.ts:1171](https://github.com/KyuzanInc/mint-sdk-js/blob/995bd27/src/apiClientV2/api.ts#L1171)
+[mint-sdk-js/src/apiClientV2/api.ts:1171](https://github.com/KyuzanInc/mint-sdk-js/blob/116138b/src/apiClientV2/api.ts#L1171)
