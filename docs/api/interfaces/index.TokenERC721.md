@@ -1,10 +1,11 @@
 ---
-id: "TokenERC721"
+id: "index.TokenERC721"
 title: "Interface: TokenERC721"
 sidebar_label: "TokenERC721"
-sidebar_position: 0
 custom_edit_url: null
 ---
+
+[index](../modules/.md).TokenERC721
 
 **`export`**
 

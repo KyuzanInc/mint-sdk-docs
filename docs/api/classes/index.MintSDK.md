@@ -1,10 +1,11 @@
 ---
-id: "MintSDK"
+id: "index.MintSDK"
 title: "Class: MintSDK"
 sidebar_label: "MintSDK"
-sidebar_position: 0
 custom_edit_url: null
 ---
+
+[index](../modules/.md).MintSDK
 
 ## Constructors
 
@@ -17,7 +18,7 @@ custom_edit_url: null
 | Name | Type |
 | :------ | :------ |
 | `accessToken` | `string` |
-| `walletSetting` | [`WalletSetting`](../modules.md#walletsetting) |
+| `walletSetting` | [`WalletSetting`](../modules/.md#walletsetting) |
 | `devOption?` | `Object` |
 | `devOption.backendUrl?` | `string` |
 | `devOption.jsonRPCUrl?` | `string` |
@@ -30,11 +31,11 @@ custom_edit_url: null
 
 ### getWalletInfo
 
-• **getWalletInfo**: () => `Promise`<[`WalletInfo`](../modules.md#walletinfo)\>
+• **getWalletInfo**: () => `Promise`<[`WalletInfo`](../modules/.md#walletinfo)\>
 
 #### Type declaration
 
-▸ (): `Promise`<[`WalletInfo`](../modules.md#walletinfo)\>
+▸ (): `Promise`<[`WalletInfo`](../modules/.md#walletinfo)\>
 
 ウォレットのアカウントと残高情報などの情報が取得できる
 Can get the transactional history and other account information.
@@ -45,7 +46,7 @@ Can get the transactional history and other account information.
 
 ##### Returns
 
-`Promise`<[`WalletInfo`](../modules.md#walletinfo)\>
+`Promise`<[`WalletInfo`](../modules/.md#walletinfo)\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -62,7 +63,7 @@ ___
 
 ### walletStrategy
 
-• `Private` **walletStrategy**: `WalletStrategy`
+• `Private` **walletStrategy**: [`WalletStrategy`](../interfaces/strategies.WalletStrategy.md)
 
 #### Defined in
 
@@ -171,7 +172,7 @@ ___
 
 ### getAccountInfo
 
-▸ **getAccountInfo**(`arg`): `Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/WalletAddressProfile.md) = response.data.data.profile }\>
+▸ **getAccountInfo**(`arg`): `Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/.WalletAddressProfile.md) = response.data.data.profile }\>
 
 Returns the account information pertaining to the wallet such as display name or profile picture.
 If there is nothing set, will return a blank string.
@@ -201,7 +202,7 @@ const accountInfo = await sdk.getAccountInfo({ walletAddress: '0xxxxxxxx' })
 
 #### Returns
 
-`Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/WalletAddressProfile.md) = response.data.data.profile }\>
+`Promise`<``null`` \| { `avatarImageUrl`: `string` = response.data.data.avatarImageUrl; `profile`: [`WalletAddressProfile`](../interfaces/.WalletAddressProfile.md) = response.data.data.profile }\>
 
 #### Defined in
 
@@ -211,7 +212,7 @@ ___
 
 ### getBoughtItemStocksByWalletAddress
 
-▸ **getBoughtItemStocksByWalletAddress**(`arg`): `Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
+▸ **getBoughtItemStocksByWalletAddress**(`arg`): `Promise`<[`ItemStock`](../modules/.md#itemstock)[]\>
 
 指定したwalletAddressで購入または落札したItemStockを取得する
 Returns the ItemStock that was sold to a certain wallet address
@@ -232,7 +233,7 @@ Returns the ItemStock that was sold to a certain wallet address
 
 #### Returns
 
-`Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
+`Promise`<[`ItemStock`](../modules/.md#itemstock)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -305,7 +306,7 @@ ___
 
 ### getItemById
 
-▸ **getItemById**(`itemId`): `Promise`<[`Item`](../modules.md#item)\>
+▸ **getItemById**(`itemId`): `Promise`<[`Item`](../modules/.md#item)\>
 
 商品をid指定でアイテムを取得
 Returns the Item from the specified itemId.
@@ -318,7 +319,7 @@ Returns the Item from the specified itemId.
 
 #### Returns
 
-`Promise`<[`Item`](../modules.md#item)\>
+`Promise`<[`Item`](../modules/.md#item)\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -334,7 +335,7 @@ ___
 
 ### getItemStockById
 
-▸ **getItemStockById**(`arg`): `Promise`<[`ItemStock`](../modules.md#itemstock)\>
+▸ **getItemStockById**(`arg`): `Promise`<[`ItemStock`](../modules/.md#itemstock)\>
 
 ItemStockを取得する
 Returns the ItemStock
@@ -352,7 +353,7 @@ Returns the ItemStock
 
 #### Returns
 
-`Promise`<[`ItemStock`](../modules.md#itemstock)\>
+`Promise`<[`ItemStock`](../modules/.md#itemstock)\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -369,7 +370,7 @@ ___
 
 ### getItemStocksByBidderAddress
 
-▸ **getItemStocksByBidderAddress**(`arg`): `Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
+▸ **getItemStocksByBidderAddress**(`arg`): `Promise`<[`ItemStock`](../modules/.md#itemstock)[]\>
 
 指定したアドレスがBidしたItemの一覧を取得
 Returns all the bidded items ( as ItemStock ) that a certain address has done
@@ -389,7 +390,7 @@ Returns all the bidded items ( as ItemStock ) that a certain address has done
 
 #### Returns
 
-`Promise`<[`ItemStock`](../modules.md#itemstock)[]\>
+`Promise`<[`ItemStock`](../modules/.md#itemstock)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -405,7 +406,7 @@ ___
 
 ### getItems
 
-▸ **getItems**(`__namedParameters`): `Promise`<[`Item`](../modules.md#item)[]\>
+▸ **getItems**(`__namedParameters`): `Promise`<[`Item`](../modules/.md#item)[]\>
 
 公開中の商品を取得
 ステータスの変更は管理画面から行えます。
@@ -431,7 +432,7 @@ The status of the items can be changed from the admin panel
 
 #### Returns
 
-`Promise`<[`Item`](../modules.md#item)[]\>
+`Promise`<[`Item`](../modules/.md#item)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -477,7 +478,7 @@ ___
 
 ### getTokensByAddress
 
-▸ **getTokensByAddress**(`arg`): `Promise`<[`TokenERC721`](../interfaces/TokenERC721.md)[]\>
+▸ **getTokensByAddress**(`arg`): `Promise`<[`TokenERC721`](../interfaces/.TokenERC721.md)[]\>
 
 指定したアドレスが所持しているMINT経由で獲得したトークンを取得
 Returns the Tokens (NFT) that a certain address is holding through MINT
@@ -493,7 +494,7 @@ Returns the Tokens (NFT) that a certain address is holding through MINT
 
 #### Returns
 
-`Promise`<[`TokenERC721`](../interfaces/TokenERC721.md)[]\>
+`Promise`<[`TokenERC721`](../interfaces/.TokenERC721.md)[]\>
 
 ```typescript
 import { MintSDK } from '@kyuzan/mint-sdk-js'
@@ -668,7 +669,7 @@ The total amount of the bid is passed through the `bidPrice` argument.
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `itemId` | `string` | [Item](../modules.md#item)のitemId |
+| `itemId` | `string` | [Item](../modules/.md#item)のitemId |
 | `bidPrice` | `number` | 単位はether / Unit is in ether |
 
 #### Returns
@@ -713,7 +714,7 @@ Requires a UI that asks for the users residence for accommodating for consumptio
 
 | Name | Type | Default value | Description |
 | :------ | :------ | :------ | :------ |
-| `itemId` | `string` | `undefined` | [Item](../modules.md#item)のitemId |
+| `itemId` | `string` | `undefined` | [Item](../modules/.md#item)のitemId |
 | `residence` | ``"jp"`` \| ``"unknown"`` | `'unknown'` | - |
 
 #### Returns
@@ -759,7 +760,7 @@ Requires a UI that asks for the users residence for accommodating for consumptio
 
 | Name | Type | Default value | Description |
 | :------ | :------ | :------ | :------ |
-| `itemId` | `string` | `undefined` | [Item](../modules.md#item)のitemId |
+| `itemId` | `string` | `undefined` | [Item](../modules/.md#item)のitemId |
 | `residence` | ``"jp"`` \| ``"unknown"`` | `'unknown'` | - |
 
 #### Returns

@@ -1,10 +1,11 @@
 ---
-id: "Bid"
+id: "index.Bid"
 title: "Interface: Bid"
 sidebar_label: "Bid"
-sidebar_position: 0
 custom_edit_url: null
 ---
+
+[index](../modules/.md).Bid
 
 **`export`**
 

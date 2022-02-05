@@ -1,10 +1,11 @@
 ---
-id: "WalletAddressProfile"
+id: "index.WalletAddressProfile"
 title: "Interface: WalletAddressProfile"
 sidebar_label: "WalletAddressProfile"
-sidebar_position: 0
 custom_edit_url: null
 ---
+
+[index](../modules/.md).WalletAddressProfile
 
 **`export`**
 

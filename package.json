@@ -18,10 +18,11 @@
     "@docusaurus/core": "^2.0.0-beta.15",
     "@docusaurus/plugin-ideal-image": "^2.0.0-beta.15",
     "@docusaurus/preset-classic": "^2.0.0-beta.15",
-    "@mdx-js/react": "1.6.22",
+    "@mdx-js/react": "^1.6.22",
     "clsx": "1.1.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "remark-gfm": "^3.0.1"
   },
   "browserslist": {
     "production": [
@@ -41,7 +42,7 @@
     "docusaurus-plugin-typedoc": "0.16.8",
     "prettier": "2.5.1",
     "typedoc": "0.22.11",
-    "typedoc-plugin-markdown": "3.11.12",
+    "typedoc-plugin-markdown": "3.11.13",
     "typescript": "4.5.5"
   }
 }

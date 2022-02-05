@@ -1,10 +1,11 @@
 ---
-id: "WrongNetworkError"
+id: "index.WrongNetworkError"
 title: "Class: WrongNetworkError"
 sidebar_label: "WrongNetworkError"
-sidebar_position: 0
 custom_edit_url: null
 ---
+
+[index](../modules/.md).WrongNetworkError
 
 ユーザーのウォレットが接続しているネットワークが正しくない
 The network connected to the wallet is not correct.
